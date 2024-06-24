@@ -1,5 +1,5 @@
 # Sampson's Notes
 
-# This is an H1 header (largest)
+## Summary
 
-###### This is an H6 header (smallest)
+#### This repository contains all the notes for Sampson during Lighthouse Lab Web Development Bootcamp
